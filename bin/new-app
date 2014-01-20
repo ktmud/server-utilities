@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+APP=$1
+APP_ETC=$1/etc/
+
+ln -s $APP_ETC/nginx.conf /etc/nginx/sites-enabled/

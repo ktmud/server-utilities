@@ -1,0 +1,13 @@
+[{
+  "name": "",
+  "exec_mode": "fork_mode",
+  "script": "",
+  "interpreter": "python",
+  "args": "",
+  "env": "",
+  "instances": "5",
+  "out_file": "",
+  "pid_file: "",
+  "port": 9876
+},{
+}]

@@ -1,0 +1,9 @@
+#!/bin/bash
+read old_rev new_rev ref_name
+
+#echo $ref_name
+
+siteroot=/srv/app/yourapp  # replace this to app root
+GIT_WORK_TREE=$siteroot git checkout -f
+
+#vim: ft=bash
